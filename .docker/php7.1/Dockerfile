@@ -77,3 +77,4 @@ RUN chmod 755 /usr/bin/postfix-launcher
 
 # Run the command on container startup
 CMD ["postfix-launcher", "/usr/sbin/php-fpm7.1", "-F"]
+
