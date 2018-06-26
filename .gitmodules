@@ -1,3 +1,6 @@
 [submodule "mautic"]
 	path = mautic
 	url = git@github.com:galvani/mautic.git
+[submodule "mautic-cloud"]
+	path = mautic-cloud
+	url = git@github.com:mautic-inc/mautic-cloud.git
